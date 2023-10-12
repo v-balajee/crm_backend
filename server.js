@@ -1,6 +1,7 @@
 /**
  * This file will be the start point of the application.
  */
+
 const serverConfig = require("./configs/server.config");
 const dbConfig = require("./configs/db.config");
 const mongoose = require("mongoose");
